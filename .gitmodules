@@ -1,0 +1,3 @@
+[submodule "Libraries/entt"]
+	path = Libraries/entt
+	url = https://github.com/skypjack/entt
