@@ -4,7 +4,9 @@
 
 ## Contents
 
-- [Presentation File](./CoMu%20Meetup%20-%20ECS%20based%20Game%20Development.pdf)
+- [Presentation](./1%20-%20Presentation/CoMu%20Meetup%20-%20ECS%20based%20Game%20Development.pdf)
+
+- [Example](./2%20-%20Example)
 
 ## Quick Start
 
